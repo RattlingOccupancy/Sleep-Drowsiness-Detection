@@ -132,10 +132,4 @@ sdp/
 
 1. **Lighting**: Ensure your face is well-lit from the front. Avoid strong backlighting.
 2. **Positioning**: Face the camera directly. The Haar Cascades are optimized for frontal face detection.
-3. **Calibration**: Use the `c` key if the system is too sensitive or not sensitive enough to your blink patterns.
 
----
-
-## ⚖️ License
-
-This project is intended for research and educational purposes. Ensure compliance with local privacy laws when using camera-based monitoring systems.
